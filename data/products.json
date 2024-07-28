@@ -1,0 +1,1376 @@
+[
+  {
+    "title": "iPhone SE",
+    "desc": "Meet the new iPhone SE. Loaded with powerful features and the latest A15 Bionic chip, it delivers an incredible experience at an affordable price. Capture stunning photos and enjoy immersive gaming on its vibrant Retina display.",
+    "img": "/assets/products/prd",
+    "price": 169.99,
+    "oldPrice": 449.99,
+    "rate": 4.6,
+    "quantity": 100,
+    "category": "Smartphones",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Tom carle 11",
+        "review": "I like how fast the shipping was (7 days)"
+      },
+      {
+        "user": "Emily Johnson",
+        "review": "Great product quality and excellent customer service!"
+      },
+      {
+        "user": "Mike Smith",
+        "review": "The product exceeded my expectations. Highly recommended!"
+      },
+      {
+        "user": "Sarah Brown",
+        "review": "Fast delivery and the item arrived in perfect condition."
+      },
+      {
+        "user": "John Doe",
+        "review": "Very satisfied with my purchase. Will definitely buy again."
+      },
+      {
+        "user": "Jessica Parker",
+        "review": "Impressed by the variety of products available."
+      },
+      {
+        "user": "David Wilson",
+        "review": "Easy ordering process and quick responses from customer support."
+      },
+      {
+        "user": "Amy Thompson",
+        "review": "The product works exactly as described. Thank you!"
+      },
+      {
+        "user": "Chris Evans",
+        "review": "Excellent value for money. Couldn't be happier with my purchase."
+      },
+      {
+        "user": "Rachel Green",
+        "review": "Highly recommended seller. Will buy again in the future."
+      },
+      { "user": "Anna", "review": "Good quality I suggest it" },
+      {
+        "user": "Tom carle 11",
+        "review": "I like how fast the shipping was (7 days)"
+      },
+      { "user": "jo8 fillip", "review": "all ok" },
+      { "user": "alberto_", "review": "Items as described." }
+    ]
+  },
+  {
+    "title": "Samsung Galaxy A52",
+    "desc": "The Samsung Galaxy A52 offers a premium smartphone experience without the hefty price tag. With its stunning Super AMOLED display, versatile camera system, and long-lasting battery, it's the perfect companion for your everyday adventures.",
+    "img": "/assets/products/prd",
+    "price": 149.99,
+    "oldPrice": 399.99,
+    "rate": 4.5,
+    "quantity": 150,
+    "category": "Smartphones",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Sophie Wilson",
+        "review": "The product arrived earlier than expected. Very impressed!"
+      },
+      {
+        "user": "Andrew Thompson",
+        "review": "Had a small issue with the product, but customer service resolved it quickly."
+      }
+    ]
+  },
+  {
+    "title": "iPad 9th Generation",
+    "desc": "Experience the power and versatility of the iPad 9th Generation. With its stunning Retina display, powerful A13 Bionic chip, and support for the Apple Pencil, it's perfect for work, play, and everything in between.",
+    "img": "/assets/products/prd",
+    "price": 139.99,
+    "oldPrice": 379.99,
+    "rate": 3.8,
+    "quantity": 200,
+    "category": "Tablets",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Olivia Lee",
+        "review": "Product quality is top-notch. Will definitely shop here again."
+      }
+    ]
+  },
+  {
+    "title": "Sony WH-CH510 Wireless Headphones",
+    "desc": "Immerse yourself in your favorite music with the Sony WH-CH510 Wireless Headphones. With up to 35 hours of battery life and lightweight design, they're perfect for all-day listening on the go.",
+    "img": "/assets/products/prd",
+    "price": 39.99,
+    "oldPrice": 79.99,
+    "rate": 4.4,
+    "quantity": 120,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Daniel Miller",
+        "review": "The product was exactly what I needed. Thank you!"
+      },
+      {
+        "user": "Emma Harris",
+        "review": "Fast shipping and great communication from the seller."
+      },
+      {
+        "user": "William Davis",
+        "review": "Highly satisfied with my purchase. Would recommend to others."
+      },
+      {
+        "user": "Ava Martinez",
+        "review": "The item arrived in perfect condition. Very happy with my purchase."
+      }
+    ]
+  },
+  {
+    "title": "Nintendo Switch Lite",
+    "desc": "Discover the joy of gaming with the Nintendo Switch Lite. Compact, lightweight, and easy to carry, it's the perfect handheld console for gaming on the go. With a wide range of games available, there's something for everyone to enjoy.",
+    "img": "/assets/products/prd",
+    "price": 129.99,
+    "oldPrice": 229.99,
+    "rate": 4.7,
+    "quantity": 180,
+    "category": "Gaming Consoles",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Anker Soundcore 2 Portable Bluetooth Speaker",
+    "desc": "Take your music anywhere with the Anker Soundcore 2 Portable Bluetooth Speaker. With its powerful sound, compact design, and long-lasting battery life, it's perfect for parties, picnics, and outdoor adventures.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 49.99,
+    "rate": 4.6,
+    "quantity": 150,
+    "category": "Speakers",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Fitbit Charge 4",
+    "desc": "Track your fitness goals with the Fitbit Charge 4. With built-in GPS, heart rate monitoring, and sleep tracking, it helps you stay active, motivated, and connected to your health goals.",
+    "img": "/assets/products/prd",
+    "price": 99.99,
+    "oldPrice": 129.99,
+    "rate": 4.5,
+    "quantity": 200,
+    "category": "Fitness Trackers",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Liam Johnson",
+        "review": "Impressive product quality. Will buy again."
+      },
+      {
+        "user": "Charlotte Brown",
+        "review": "Great customer service and fast delivery."
+      },
+      {
+        "user": "Noah Wilson",
+        "review": "The product exceeded my expectations. Very happy!"
+      }
+    ]
+  },
+  {
+    "title": "Amazon Echo Dot (4th Gen)",
+    "desc": "Meet the all-new Amazon Echo Dot (4th Gen). With its sleek, compact design and improved sound quality, it's the perfect addition to any room. Use voice commands to control smart home devices, play music, and much more.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 49.99,
+    "rate": 4.7,
+    "quantity": 250,
+    "category": "Smart Home",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Mia Martinez",
+        "review": "Easy ordering process and prompt shipment."
+      }
+    ]
+  },
+  {
+    "title": "Apple Watch SE",
+    "desc": "Stay active, motivated, and connected with the Apple Watch SE. With its powerful features and sleek design, it's the perfect companion for your active lifestyle. Track your workouts, monitor your health, and stay in touch with notifications on your wrist.",
+    "img": "/assets/products/prd",
+    "price": 199.99,
+    "oldPrice": 249.99,
+    "rate": 4.6,
+    "quantity": 180,
+    "category": "Wearable Technology",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "JBL Flip 5 Portable Waterproof Speaker",
+    "desc": "Take your music to the next level with the JBL Flip 5 Portable Waterproof Speaker. With its powerful sound and rugged design, it's perfect for pool parties, beach trips, and outdoor adventures. Plus, it's waterproof, so you can use it anywhere, rain or shine.",
+    "img": "/assets/products/prd",
+    "price": 89.99,
+    "oldPrice": 119.99,
+    "rate": 4.8,
+    "quantity": 150,
+    "category": "Speakers",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Samsung Galaxy Tab A7",
+    "desc": "Experience entertainment like never before with the Samsung Galaxy Tab A7. With its stunning 10.4-inch display, powerful processor, and long-lasting battery, it's perfect for streaming, gaming, and browsing the web.",
+    "img": "/assets/products/prd",
+    "price": 159.99,
+    "oldPrice": 199.99,
+    "rate": 4.7,
+    "quantity": 200,
+    "category": "Tablets",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Sony WF-XB700 Extra Bass True Wireless Earbuds",
+    "desc": "Immerse yourself in your favorite music with the Sony WF-XB700 Extra Bass True Wireless Earbuds. With their powerful sound, secure fit, and long-lasting battery life, they're perfect for workouts, commutes, and everyday listening.",
+    "img": "/assets/products/prd",
+    "price": 69.99,
+    "oldPrice": 99.99,
+    "rate": 4.5,
+    "quantity": 180,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Google Nest Mini (2nd Gen)",
+    "desc": "Upgrade your home with the Google Nest Mini (2nd Gen). With its compact design and powerful sound, it's perfect for any room. Use voice commands to play music, control smart home devices, and get answers to your questions.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 49.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Smart Home",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "GoPro HERO8 Black",
+    "desc": "Capture every adventure with the GoPro HERO8 Black. With its stunning 4K video, advanced stabilization, and waterproof design, it's perfect for capturing all your outdoor activities, from surfing and skiing to hiking and biking.",
+    "img": "/assets/products/prd",
+    "price": 299.99,
+    "oldPrice": 349.99,
+    "rate": 4.7,
+    "quantity": 100,
+    "category": "Action Cameras",
+    "globalCategory": "Electronics",
+    "reviews": [
+      { "user": "Anna", "review": "Good quality I suggest it" },
+      {
+        "user": "Tom carle",
+        "review": "I like how fast the shipping was (7 days)"
+      }
+    ]
+  },
+  {
+    "title": "Fitbit Inspire 2",
+    "desc": "Track your fitness goals and stay motivated with the Fitbit Inspire 2. With its sleek design, long battery life, and advanced features like heart rate monitoring and sleep tracking, it's the perfect fitness companion.",
+    "img": "/assets/products/prd",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "rate": 4.6,
+    "quantity": 150,
+    "category": "Fitness Trackers",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "James Taylor",
+        "review": "Fantastic experience overall. Highly recommended!"
+      },
+      {
+        "user": "Isabella Clark",
+        "review": "The item arrived as described. Thank you!"
+      }
+    ]
+  },
+  {
+    "title": "Bose SoundLink Color Bluetooth Speaker II",
+    "desc": "Take your music with you wherever you go with the Bose SoundLink Color Bluetooth Speaker II. With its compact design and powerful sound, it's perfect for picnics, beach trips, and outdoor adventures.",
+    "img": "/assets/products/prd",
+    "price": 99.99,
+    "oldPrice": 129.99,
+    "rate": 4.7,
+    "quantity": 120,
+    "category": "Speakers",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Ethan White",
+        "review": "Smooth transaction and excellent product quality."
+      },
+      {
+        "user": "Amelia Anderson",
+        "review": "Very pleased with my purchase. Will shop here again."
+      },
+      {
+        "user": "Logan Thomas",
+        "review": "Great value for money. Couldn't ask for more!"
+      },
+      {
+        "user": "Harper Garcia",
+        "review": "Impressed by the attention to detail. Will recommend to friends."
+      }
+    ]
+  },
+  {
+    "title": "Amazon Fire HD 10 Tablet",
+    "desc": "Experience entertainment like never before with the Amazon Fire HD 10 Tablet. With its stunning 10.1-inch display, powerful processor, and long-lasting battery, it's perfect for streaming, gaming, and browsing the web.",
+    "img": "/assets/products/prd",
+    "price": 99.99,
+    "oldPrice": 149.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Tablets",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Sony SRS-XB13 Extra Bass Portable Bluetooth Speaker",
+    "desc": "Take your music to the next level with the Sony SRS-XB13 Extra Bass Portable Bluetooth Speaker. With its compact design, powerful sound, and long battery life, it's perfect for parties, picnics, and outdoor adventures.",
+    "img": "/assets/products/prd",
+    "price": 39.99,
+    "oldPrice": 59.99,
+    "rate": 4.5,
+    "quantity": 150,
+    "category": "Speakers",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Tile Mate Bluetooth Tracker",
+    "desc": "Never lose your keys, wallet, or phone again with the Tile Mate Bluetooth Tracker. Simply attach it to your belongings and use the Tile app to ring your items or see their last known location on a map. It's the perfect solution for forgetful moments.",
+    "img": "/assets/products/prd",
+    "price": 19.99,
+    "oldPrice": 24.99,
+    "rate": 4.6,
+    "quantity": 180,
+    "category": "Smart Home",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Bose QuietComfort 35 II Wireless Headphones",
+    "desc": "Immerse yourself in your music with the Bose QuietComfort 35 II Wireless Headphones. With world-class noise cancellation, balanced sound, and a comfortable design, they're perfect for long flights, commutes, and busy offices.",
+    "img": "/assets/products/prd",
+    "price": 249.99,
+    "oldPrice": 299.99,
+    "rate": 4.8,
+    "quantity": 120,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Canon EOS M50 Mark II Mirrorless Camera",
+    "desc": "Capture stunning photos and videos with the Canon EOS M50 Mark II Mirrorless Camera. With its compact design, versatile lens options, and advanced features, it's perfect for both beginners and experienced photographers alike.",
+    "img": "/assets/products/prd",
+    "price": 599.99,
+    "oldPrice": 649.99,
+    "rate": 4.7,
+    "quantity": 100,
+    "category": "Cameras",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Logitech G502 HERO High Performance Gaming Mouse",
+    "desc": "Dominate your gaming competition with the Logitech G502 HERO High Performance Gaming Mouse. With its advanced optical sensor, customizable buttons, and ergonomic design, it's perfect for gamers who demand precision and control.",
+    "img": "/assets/products/prd",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "rate": 4.6,
+    "quantity": 150,
+    "category": "Computer Peripherals",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Apple AirPods (3rd Gen)",
+    "desc": "Experience the magic of AirPods with the all-new Apple AirPods (3rd Gen). With their comfortable fit, crystal-clear sound, and seamless integration with Apple devices, they're perfect for listening to music, making calls, and more.",
+    "img": "/assets/products/prd",
+    "price": 149.99,
+    "oldPrice": 179.99,
+    "rate": 4.7,
+    "quantity": 200,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Samsung Galaxy Buds Pro",
+    "desc": "Immerse yourself in your music with the Samsung Galaxy Buds Pro. With their premium sound quality, active noise cancellation, and comfortable fit, they're perfect for workouts, commutes, and everyday listening.",
+    "img": "/assets/products/prd",
+    "price": 169.99,
+    "oldPrice": 199.99,
+    "rate": 4.6,
+    "quantity": 180,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Logitech C920x Pro HD Webcam",
+    "desc": "Stay connected with the Logitech C920x Pro HD Webcam. With its crystal-clear video quality, dual microphones, and easy setup, it's perfect for video calls, live streaming, and recording content.",
+    "img": "/assets/products/prd",
+    "price": 69.99,
+    "oldPrice": 79.99,
+    "rate": 4.7,
+    "quantity": 150,
+    "category": "Webcams",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Garmin Forerunner 45 GPS Running Watch",
+    "desc": "Track your runs and stay motivated with the Garmin Forerunner 45 GPS Running Watch. With its built-in GPS, heart rate monitoring, and advanced training features, it's the perfect companion for runners of all levels.",
+    "img": "/assets/products/prd",
+    "price": 149.99,
+    "oldPrice": 199.99,
+    "rate": 4.6,
+    "quantity": 120,
+    "category": "Wearable Technology",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Roku Streaming Stick+",
+    "desc": "Stream your favorite movies, TV shows, and more with the Roku Streaming Stick+. With its powerful quad-core processor and 4K HDR support, it delivers smooth streaming and stunning picture quality. Plus, with access to thousands of channels, there's always something to watch.",
+    "img": "/assets/products/prd",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "rate": 4.5,
+    "quantity": 180,
+    "category": "Streaming Devices",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Logitech MX Anywhere 3 Wireless Mouse",
+    "desc": "Get work done anywhere with the Logitech MX Anywhere 3 Wireless Mouse. With its compact design, advanced tracking technology, and customizable buttons, it's perfect for working on the go.",
+    "img": "/assets/products/prd",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Computer Peripherals",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Sony WH-1000XM4 Wireless Noise Cancelling Headphones",
+    "desc": "Immerse yourself in your music with the Sony WH-1000XM4 Wireless Noise Cancelling Headphones. With their industry-leading noise cancellation, premium sound quality, and comfortable design, they're perfect for music lovers and frequent travelers alike.",
+    "img": "/assets/products/prd",
+    "price": 299.99,
+    "oldPrice": 349.99,
+    "rate": 4.8,
+    "quantity": 100,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Elijah Rodriguez",
+        "review": "Excellent product quality and fast shipping!"
+      },
+      {
+        "user": "Avery Scott",
+        "review": "The item arrived exactly as described. Very satisfied!"
+      }
+    ]
+  },
+  {
+    "title": "Bose SoundSport Wireless Earbuds",
+    "desc": "Stay motivated during workouts with the Bose SoundSport Wireless Earbuds. With their secure fit, sweat resistance, and powerful sound, they're perfect for running, gym sessions, and outdoor activities.",
+    "img": "/assets/products/prd",
+    "price": 99.99,
+    "oldPrice": 129.99,
+    "rate": 4.7,
+    "quantity": 150,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Sofia Adams",
+        "review": "Great customer service. They were very helpful!"
+      },
+      {
+        "user": "Jackson Campbell",
+        "review": "Highly recommend this seller. Will buy again!"
+      },
+      {
+        "user": "Madison Parker",
+        "review": "The product exceeded my expectations. Thank you!"
+      }
+    ]
+  },
+  {
+    "title": "Sony WH-XB900N Extra Bass Wireless Noise Cancelling Headphones",
+    "desc": "Immerse yourself in your music with the Sony WH-XB900N Extra Bass Wireless Noise Cancelling Headphones. With their powerful sound, comfortable design, and long battery life, they're perfect for long flights, commutes, and everyday listening.",
+    "img": "/assets/products/prd",
+    "price": 149.99,
+    "oldPrice": 199.99,
+    "rate": 4.6,
+    "quantity": 180,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Apple Magic Keyboard for iPad Pro 11-inch (3rd Gen)",
+    "desc": "Experience the ultimate typing experience with the Apple Magic Keyboard for iPad Pro 11-inch (3rd Gen). With its responsive keys, trackpad, and adjustable viewing angle, it's perfecdy tasks and creative projects on your iPad Pro.",
+    "img": "/assets/products/prd",
+    "price": 279.99,
+    "oldPrice": 329.99,
+    "rate": 4.8,
+    "quantity": 150,
+    "category": "Tablet Accessories",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Aiden Evans",
+        "review": "Fast delivery and excellent communication."
+      }
+    ]
+  },
+  {
+    "title": "Sony WF-SP800N Extra Bass True Wireless Noise Cancelling Earbuds",
+    "desc": "Immerse yourself in your music with the Sony WF-SP800N Extra Bass True Wireless Noise Cancelling Earbuds. With their powerful sound, secure fit, and active noise cancellation, they're perfect for workouts, commutes, and everyday listening.",
+    "img": "/assets/products/prd",
+    "price": 129.99,
+    "oldPrice": 179.99,
+    "rate": 4.5,
+    "quantity": 200,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Chloe Garcia",
+        "review": "Very happy with my purchase. Great value for money!"
+      },
+      {
+        "user": "Carter Hernandez",
+        "review": "Impressive product quality. Will shop here again!"
+      },
+      {
+        "user": "Aubrey King",
+        "review": "Smooth transaction from start to finish. Thank you!"
+      },
+      {
+        "user": "Layla Wright",
+        "review": "The item arrived in perfect condition. Highly recommended!"
+      }
+    ]
+  },
+  {
+    "title": "Canon IVY Mini Photo Printer",
+    "desc": "Print your favorite memories on the go with the Canon IVY Mini Photo Printer. With its compact design and wireless connectivity, you can print photos directly from your smartphone or tablet in an instant. Plus, with peel-and-stick backing, you can turn your photos into stickers and decorate your world.",
+    "img": "/assets/products/prd",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "rate": 4.6,
+    "quantity": 150,
+    "category": "Printers",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Google Chromecast with Google TV",
+    "desc": "Transform your TV into a smart TV with the Google Chromecast with Google TV. With its powerful streaming capabilities, 4K HDR support, and Google TV interface, it's the ultimate entertainment hub for streaming your favorite movies, TV shows, and more.",
+    "img": "/assets/products/prd",
+    "price": 49.99,
+    "oldPrice": 59.99,
+    "rate": 4.7,
+    "quantity": 200,
+    "category": "Streaming Devices",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Jabra Elite 75t True Wireless Earbuds",
+    "desc": "Immerse yourself in your music with the Jabra Elite 75t True Wireless Earbuds. With their compact design, secure fit, and premium sound quality, they're perfect for workouts, commutes, and everyday listening.",
+    "img": "/assets/products/prd",
+    "price": 129.99,
+    "oldPrice": 149.99,
+    "rate": 4.6,
+    "quantity": 180,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Samsung Galaxy Watch Active2",
+    "desc": "Stay active and connected with the Samsung Galaxy Watch Active2. With its sleek design, advanced health tracking, and long-lasting battery, it's the perfect companion for your active lifestyle.",
+    "img": "/assets/products/prd",
+    "price": 199.99,
+    "oldPrice": 249.99,
+    "rate": 4.7,
+    "quantity": 120,
+    "category": "Wearable Technology",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "NVIDIA SHIELD Android TV Pro",
+    "desc": "Experience streaming like never before with the NVIDIA SHIELD Android TV Pro. With its powerful processor, 4K HDR support, and access to thousands of apps, games, and streaming services, it's the ultimate entertainment hub for your living room.",
+    "img": "/assets/products/prd",
+    "price": 199.99,
+    "oldPrice": 229.99,
+    "rate": 4.6,
+    "quantity": 150,
+    "category": "Streaming Devices",
+    "globalCategory": "Electronics",
+    "reviews": [
+      { "user": "Anna", "review": "Good quality I suggest it" },
+      {
+        "user": "Tom carle",
+        "review": "I like how fast the shipping was (7 days)"
+      }
+    ]
+  },
+  {
+    "title": "Bose QuietComfort Earbuds",
+    "desc": "Immerse yourself in your music with the Bose QuietComfort Earbuds. With their world-class noise cancellation, premium sound quality, and comfortable design, they're perfect for music lovers and frequent travelers alike.",
+    "img": "/assets/products/prd",
+    "price": 249.99,
+    "oldPrice": 279.99,
+    "rate": 4.7,
+    "quantity": 180,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Owen Hughes",
+        "review": "Great experience overall. Fast shipping!"
+      }
+    ]
+  },
+  {
+    "title": "Logitech G Pro X Superlight Wireless Gaming Mouse",
+    "desc": "Dominate your gaming competition with the Logitech G Pro X Superlight Wireless Gaming Mouse. With its ultra-lightweight design, advanced sensor technology, and customizable buttons, it's perfect for gamers who demand precision and speed.",
+    "img": "/assets/products/prd",
+    "price": 129.99,
+    "oldPrice": 149.99,
+    "rate": 4.6,
+    "quantity": 150,
+    "category": "Computer Peripherals",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Elena Lopez",
+        "review": "Excellent customer service. Very helpful!"
+      }
+    ]
+  },
+  {
+    "title": "Google Nest Hub (2nd Gen)",
+    "desc": "Upgrade your home with the Google Nest Hub (2nd Gen). With its vibrant display and built-in Google Assistant, it's the ultimate smart home companion. Use voice commands to control smart home devices, play music, and get answers to your questions.",
+    "img": "/assets/products/prd",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "rate": 4.7,
+    "quantity": 200,
+    "category": "Smart Home",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Gabriel Adams",
+        "review": "The product arrived in perfect condition. Thank you!"
+      }
+    ]
+  },
+  {
+    "title": "HP Sprocket Portable Photo Printer",
+    "desc": "Print your favorite photos on the go with the HP Sprocket Portable Photo Printer. With its compact design and wireless connectivity, you can print photos directly from your smartphone or tablet in seconds. Plus, with sticky-backed photo paper, you can turn your photos into stickers and decorate your world.",
+    "img": "/assets/products/prd",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "rate": 4.6,
+    "quantity": 150,
+    "category": "Printers",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Fitbit Versa 3",
+    "desc": "Stay active and motivated with the Fitbit Versa 3. With its built-in GPS, heart rate monitoring, and advanced health tracking features, it helps you stay on top of your fitness goals and live a healthier lifestyle.",
+    "img": "/assets/products/prd",
+    "price": 199.99,
+    "oldPrice": 229.99,
+    "rate": 4.6,
+    "quantity": 180,
+    "category": "Fitness Trackers",
+    "globalCategory": "Electronics",
+    "reviews": [
+      {
+        "user": "Aria Perez",
+        "review": "Highly satisfied with my purchase. Will buy again!"
+      }
+    ]
+  },
+  {
+    "title": "Razer DeathAdder V2 Gaming Mouse",
+    "desc": "Dominate your gaming competition with the Razer DeathAdder V2 Gaming Mouse. With its ergonomic design, advanced sensor technology, and customizable buttons, it's perfect for gamers who demand precision and speed.",
+    "img": "/assets/products/prd",
+    "price": 49.99,
+    "oldPrice": 59.99,
+    "rate": 4.6,
+    "quantity": 150,
+    "category": "Computer Peripherals",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Tile Pro Bluetooth Tracker",
+    "desc": "Never lose your keys, wallet, or phone again with the Tile Pro Bluetooth Tracker. Simply attach it to your belongings and use the Tile app to ring your items or see their last known location on a map. It's the perfect solution for forgetful moments.",
+    "img": "/assets/products/prd",
+    "price": 24.99,
+    "oldPrice": 29.99,
+    "rate": 4.7,
+    "quantity": 180,
+    "category": "Smart Home",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Logitech G Pro X Gaming Headset",
+    "desc": "Immerse yourself in your favorite games with the Logitech G Pro X Gaming Headset. With its premium sound quality, comfortable design, and customizable features, it's perfect for gamers who demand the best.",
+    "img": "/assets/products/prd",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "rate": 4.7,
+    "quantity": 120,
+    "category": "Headphones",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Amazon Echo Show 8 (2nd Gen)",
+    "desc": "Stay connected with the Amazon Echo Show 8 (2nd Gen). With its vibrant display and built-in camera, it's perfect for video calls, streaming content, and controlling smart home devices. Plus, with Alexa built-in, you can ask questions, play music, and much more.",
+    "img": "/assets/products/prd",
+    "price": 89.99,
+    "oldPrice": 119.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Smart Home",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Garmin Instinct Solar GPS Smartwatch",
+    "desc": "Stay connected and motivated with the Garmin Instinct Solar GPS Smartwatch. With its rugged design, built-in GPS, and solar charging capabilities, it's the perfect companion for outdoor adventures.",
+    "img": "/assets/products/prd",
+    "price": 299.99,
+    "oldPrice": 349.99,
+    "rate": 4.7,
+    "quantity": 100,
+    "category": "Wearable Technology",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Ring Video Doorbell 4",
+    "desc": "Keep an eye on your home with the Ring Video Doorbell 4. With its advanced motion detection, 1080p HD video, and two-way talk, you can see, hear, and speak to visitors from anywhere.",
+    "img": "/assets/products/prd",
+    "price": 169.99,
+    "oldPrice": 199.99,
+    "rate": 4.7,
+    "quantity": 180,
+    "category": "Smart Home",
+    "globalCategory": "Electronics",
+    "reviews": []
+  },
+  {
+    "title": "Men's Classic Cotton T-Shirt",
+    "desc": "Stay comfortable all day long with our classic cotton t-shirt for men. Made from soft and breathable cotton, this t-shirt is perfect for everyday wear.",
+    "img": "/assets/products/prd",
+    "price": 9.99,
+    "oldPrice": 14.99,
+    "rate": 4.5,
+    "quantity": 200,
+    "category": "T-Shirts",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's High-Waisted Skinny Jeans",
+    "desc": "Achieve a sleek and stylish look with our high-waisted skinny jeans for women. These jeans hug your curves in all the right places for a flattering fit.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 39.99,
+    "rate": 4.7,
+    "quantity": 150,
+    "category": "Jeans",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Casual Button-Up Shirt",
+    "desc": "Elevate your casual look with our men's button-up shirt. Made from lightweight and breathable fabric, it's perfect for any occasion.",
+    "img": "/assets/products/prd",
+    "price": 19.99,
+    "oldPrice": 24.99,
+    "rate": 4.6,
+    "quantity": 180,
+    "category": "Shirts",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Flowy Midi Dress",
+    "desc": "Make a statement with our flowy midi dress for women. Featuring a flattering silhouette and vibrant print, it's perfect for both casual and dressy occasions.",
+    "img": "/assets/products/prd",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "rate": 4.8,
+    "quantity": 120,
+    "category": "Dresses",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Slim Fit Chino Pants",
+    "desc": "Add a touch of sophistication to your wardrobe with our men's slim fit chino pants. Made from durable cotton twill, these pants are perfect for both work and weekend wear.",
+    "img": "/assets/products/prd",
+    "price": 34.99,
+    "oldPrice": 44.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Pants",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Ribbed Knit Sweater",
+    "desc": "Stay cozy and chic with our ribbed knit sweater for women. Featuring a classic design and soft fabric, it's perfect for layering during the cooler months.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 39.99,
+    "rate": 4.5,
+    "quantity": 180,
+    "category": "Sweaters",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Lightweight Bomber Jacket",
+    "desc": "Add a stylish layer to your look with our lightweight bomber jacket for men. With its classic design and versatile silhouette, it's perfect for transitioning between seasons.",
+    "img": "/assets/products/prd",
+    "price": 49.99,
+    "oldPrice": 59.99,
+    "rate": 4.7,
+    "quantity": 150,
+    "category": "Jackets",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Faux Leather Moto Jacket",
+    "desc": "Make a bold statement with our faux leather moto jacket for women. Featuring edgy details and a flattering fit, it's perfect for adding a touch of attitude to any outfit.",
+    "img": "/assets/products/prd",
+    "price": 59.99,
+    "oldPrice": 79.99,
+    "rate": 4.6,
+    "quantity": 120,
+    "category": "Jackets",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Classic Polo Shirt",
+    "desc": "Stay polished and comfortable with our classic polo shirt for men. Made from soft and breathable fabric, it's perfect for casual Fridays or weekend outings.",
+    "img": "/assets/products/prd",
+    "price": 24.99,
+    "oldPrice": 29.99,
+    "rate": 4.6,
+    "quantity": 180,
+    "category": "Polos",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Striped Boatneck Top",
+    "desc": "Add a nautical touch to your wardrobe with our striped boatneck top for women. Featuring a classic design and comfortable fit, it's perfect for pairing with jeans or shorts.",
+    "img": "/assets/products/prd",
+    "price": 19.99,
+    "oldPrice": 24.99,
+    "rate": 4.5,
+    "quantity": 200,
+    "category": "Tops",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Cargo Shorts",
+    "desc": "Stay cool and casual with our cargo shorts for men. Featuring plenty of pockets and a comfortable fit, they're perfect for outdoor adventures or laid-back weekends.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 34.99,
+    "rate": 4.7,
+    "quantity": 150,
+    "category": "Shorts",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Relaxed Fit Jogger Pants",
+    "desc": "Get cozy in style with our relaxed fit jogger pants for women. Made from soft and stretchy fabric, they're perfect for lounging at home or running errands.",
+    "img": "/assets/products/prd",
+    "price": 24.99,
+    "oldPrice": 29.99,
+    "rate": 4.6,
+    "quantity": 180,
+    "category": "Pants",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Slim Fit Plaid Shirt",
+    "desc": "Add a pop of color to your wardrobe with our slim fit plaid shirt for men. Made from soft and breathable fabric, it's perfect for adding a stylish touch to any outfit.",
+    "img": "/assets/products/prd",
+    "price": 24.99,
+    "oldPrice": 29.99,
+    "rate": 4.5,
+    "quantity": 200,
+    "category": "Shirts",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Ruffled Blouse",
+    "desc": "Elevate your look with our ruffled blouse for women. Featuring feminine details and a flattering fit, it's perfect for adding a touch of romance to your wardrobe.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 39.99,
+    "rate": 4.7,
+    "quantity": 150,
+    "category": "Blouses",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Classic Crewneck Sweatshirt",
+    "desc": "Stay cozy and stylish with our classic crewneck sweatshirt for men. Made from soft fleece fabric, it's perfect for layering on chilly days or lounging at home.",
+    "img": "/assets/products/prd",
+    "price": 34.99,
+    "oldPrice": 39.99,
+    "rate": 4.6,
+    "quantity": 180,
+    "category": "Sweatshirts",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Cropped Hoodie",
+    "desc": "Add a sporty vibe to your look with our cropped hoodie for women. Featuring a relaxed fit and soft fabric, it's perfect for pairing with high-waisted jeans or leggings.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 34.99,
+    "rate": 4.5,
+    "quantity": 200,
+    "category": "Hoodies",
+    "globalCategory": "Clothes",
+    "reviews": [
+      { "user": "Anna", "review": "Good quality I suggest it" },
+      {
+        "user": "Tom carle",
+        "review": "I like how fast the shipping was (7 days)"
+      }
+    ]
+  },
+  {
+    "title": "Men's Slim Fit Dress Pants",
+    "desc": "Look sharp and sophisticated with our slim fit dress pants for men. Made from wrinkle-resistant fabric, they're perfect for the office or any formal occasion.",
+    "img": "/assets/products/prd",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "rate": 4.7,
+    "quantity": 150,
+    "category": "Pants",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Lincoln Baker",
+        "review": "Impressed by the quality of the product. Highly recommended!"
+      }
+    ]
+  },
+  {
+    "title": "Women's Linen Blend Shorts",
+    "desc": "Stay cool and comfortable with our linen blend shorts for women. Featuring a relaxed fit and breathable fabric, they're perfect for sunny days and beach vacations.",
+    "img": "/assets/products/prd",
+    "price": 19.99,
+    "oldPrice": 24.99,
+    "rate": 4.6,
+    "quantity": 180,
+    "category": "Shorts",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Victoria Foster",
+        "review": "Smooth transaction and fast delivery."
+      }
+    ]
+  },
+  {
+    "title": "Men's Athletic Performance Shorts",
+    "desc": "Stay cool and focused during workouts with our athletic performance shorts for men. Made from moisture-wicking fabric, they're perfect for running, training, or hitting the gym.",
+    "img": "/assets/products/prd",
+    "price": 24.99,
+    "oldPrice": 29.99,
+    "rate": 4.7,
+    "quantity": 200,
+    "category": "Shorts",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Nolan Cooper",
+        "review": "The item exceeded my expectations. Very happy!"
+      },
+      {
+        "user": "Skylar Rivera",
+        "review": "Great value for money. Will recommend to friends!"
+      }
+    ]
+  },
+  {
+    "title": "Women's Belted Trench Coat",
+    "desc": "Stay chic and sophisticated with our belted trench coat for women. Featuring classic details and a flattering silhouette, it's perfect for layering over any outfit.",
+    "img": "/assets/products/prd",
+    "price": 59.99,
+    "oldPrice": 69.99,
+    "rate": 4.8,
+    "quantity": 120,
+    "category": "Coats",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Jaxon Morgan",
+        "review": "Impressive product quality. Will shop here again!"
+      }
+    ]
+  },
+  {
+    "title": "Men's Slim Fit V-Neck Sweater",
+    "desc": "Elevate your sweater game with our slim fit v-neck sweater for men. Made from soft and luxurious fabric, it's perfect for layering over dress shirts or wearing on its own.",
+    "img": "/assets/products/prd",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "rate": 4.6,
+    "quantity": 150,
+    "category": "Sweaters",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Brooklyn Gray",
+        "review": "Very pleased with my purchase. Thank you!"
+      }
+    ]
+  },
+  {
+    "title": "Women's Floral Print Maxi Dress",
+    "desc": "Make a statement with our floral print maxi dress for women. Featuring a flowing silhouette and vibrant print, it's perfect for weddings, vacations, or any special occasion.",
+    "img": "/assets/products/prd",
+    "price": 49.99,
+    "oldPrice": 59.99,
+    "rate": 4.7,
+    "quantity": 180,
+    "category": "Dresses",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Classic Denim Jacket",
+    "desc": "Add a timeless layer to your look with our classic denim jacket for men. Featuring a versatile silhouette and durable denim fabric, it's perfect for any season.",
+    "img": "/assets/products/prd",
+    "price": 49.99,
+    "oldPrice": 59.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Jackets",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Mock Neck Sweater Dress",
+    "desc": "Stay cozy and chic with our mock neck sweater dress for women. Featuring a figure-flattering silhouette and soft fabric, it's perfect for chilly days and casual outings.",
+    "img": "/assets/products/prd",
+    "price": 34.99,
+    "oldPrice": 39.99,
+    "rate": 4.5,
+    "quantity": 150,
+    "category": "Dresses",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Stretch Slim Fit Chino Pants",
+    "desc": "Get the perfect fit with our stretch slim fit chino pants for men. Made from stretchy fabric, they offer comfort and style for any occasion.",
+    "img": "/assets/products/prd",
+    "price": 34.99,
+    "oldPrice": 44.99,
+    "rate": 4.7,
+    "quantity": 180,
+    "category": "Pants",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Open Front Cardigan",
+    "desc": "Layer up in style with our open front cardigan for women. Made from soft and lightweight fabric, it's perfect for adding warmth to any outfit.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 34.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Sweaters",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Grace Hughes",
+        "review": "Very pleased with my purchase. Will shop here again!"
+      },
+      {
+        "user": "Tyler Foster",
+        "review": "Impressive customer service. They went above and beyond!"
+      }
+    ]
+  },
+  {
+    "title": "Men's Classic Crewneck T-Shirt (Pack of 3)",
+    "desc": "Stock up on essentials with our pack of three classic crewneck t-shirts for men. Made from soft and durable cotton, they're perfect for everyday wear.",
+    "img": "/assets/products/prd",
+    "price": 24.99,
+    "oldPrice": 29.99,
+    "rate": 4.5,
+    "quantity": 150,
+    "category": "T-Shirts",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Classic Straight Leg Jeans",
+    "desc": "Achieve a timeless look with our classic straight leg jeans for women. Made from high-quality denim, they're designed to flatter your figure and withstand the test of time.",
+    "img": "/assets/products/prd",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "rate": 4.7,
+    "quantity": 180,
+    "category": "Jeans",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Slim Fit Button-Up Shirt",
+    "desc": "Look sharp and polished with our slim fit button-up shirt for men. Made from crisp cotton fabric, it's perfect for both work and special occasions.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 34.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Shirts",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Ribbed Knit Sweater Dress",
+    "desc": "Stay cozy and stylish with our ribbed knit sweater dress for women. Featuring a figure-flattering silhouette and soft fabric, it's perfect for chilly days and casual outings.",
+    "img": "/assets/products/prd",
+    "price": 34.99,
+    "oldPrice": 39.99,
+    "rate": 4.5,
+    "quantity": 150,
+    "category": "Dresses",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Quilted Puffer Vest",
+    "desc": "Add an extra layer of warmth and style with our quilted puffer vest for men. Made from water-resistant fabric and filled with insulation, it's perfect for outdoor adventures.",
+    "img": "/assets/products/prd",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "rate": 4.7,
+    "quantity": 180,
+    "category": "Vests",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Slim Fit Blazer",
+    "desc": "Look polished and professional with our slim fit blazer for women. Made from stretchy fabric, it's designed to flatter your figure and provide all-day comfort.",
+    "img": "/assets/products/prd",
+    "price": 49.99,
+    "oldPrice": 59.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Blazers",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Cargo Pants",
+    "desc": "Stay prepared for anything with our cargo pants for men. Featuring plenty of pockets and a comfortable fit, they're perfect for outdoor adventures or everyday wear.",
+    "img": "/assets/products/prd",
+    "price": 34.99,
+    "oldPrice": 39.99,
+    "rate": 4.5,
+    "quantity": 150,
+    "category": "Pants",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Zoe Cooper",
+        "review": "Fast delivery and excellent customer service!"
+      }
+    ]
+  },
+  {
+    "title": "Women's Ribbed Knit Crop Top",
+    "desc": "Show off your style with our ribbed knit crop top for women. Featuring a flattering silhouette and soft fabric, it's perfect for pairing with high-waisted jeans or skirts.",
+    "img": "/assets/products/prd",
+    "price": 19.99,
+    "oldPrice": 24.99,
+    "rate": 4.7,
+    "quantity": 180,
+    "category": "Tops",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Nathan Ramirez",
+        "review": "The product arrived earlier than expected. Very satisfied!"
+      }
+    ]
+  },
+  {
+    "title": "Men's Classic Bomber Jacket",
+    "desc": "Add a cool and casual layer to your look with our classic bomber jacket for men. Made from durable fabric and featuring a timeless design, it's perfect for any season.",
+    "img": "/assets/products/prd",
+    "price": 49.99,
+    "oldPrice": 59.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Jackets",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Hannah Ward",
+        "review": "Impressed by the quality of the product. Highly recommended!"
+      }
+    ]
+  },
+  {
+    "title": "Women's Wide Leg Linen Pants",
+    "desc": "Stay cool and stylish with our wide leg linen pants for women. Made from breathable fabric and featuring a relaxed fit, they're perfect for warm-weather days.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 34.99,
+    "rate": 4.5,
+    "quantity": 150,
+    "category": "Pants",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Christian Bennett",
+        "review": "Smooth transaction from start to finish. Thank you!"
+      }
+    ]
+  },
+  {
+    "title": "Men's Slim Fit Henley Shirt",
+    "desc": "Upgrade your casual look with our slim fit henley shirt for men. Made from soft and breathable fabric, it's perfect for layering or wearing on its own.",
+    "img": "/assets/products/prd",
+    "price": 19.99,
+    "oldPrice": 24.99,
+    "rate": 4.7,
+    "quantity": 180,
+    "category": "Shirts",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Lillian Reed",
+        "review": "Great value for money. Will buy again!"
+      },
+      {
+        "user": "Aaron Bell",
+        "review": "The item was exactly what I needed. Thank you!"
+      }
+    ]
+  },
+  {
+    "title": "Women's Denim Mini Skirt",
+    "desc": "Add a touch of retro flair to your wardrobe with our denim mini skirt for women. Featuring a classic design and flattering fit, it's perfect for pairing with your favorite tops.",
+    "img": "/assets/products/prd",
+    "price": 24.99,
+    "oldPrice": 29.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Skirts",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Slim Fit Stretch Dress Shirt",
+    "desc": "Look sharp and polished with our slim fit stretch dress shirt for men. Made from stretchy fabric, it offers a tailored fit and all-day comfort.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 34.99,
+    "rate": 4.5,
+    "quantity": 150,
+    "category": "Shirts",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Women's Cropped Denim Jacket",
+    "desc": "Add a trendy layer to your look with our cropped denim jacket for women. Featuring a modern silhouette and classic denim fabric, it's perfect for adding edge to any outfit.",
+    "img": "/assets/products/prd",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "rate": 4.7,
+    "quantity": 180,
+    "category": "Jackets",
+    "globalCategory": "Clothes",
+    "reviews": []
+  },
+  {
+    "title": "Men's Classic Fit Cargo Shorts",
+    "desc": "Stay comfortable and stylish with our classic fit cargo shorts for men. Featuring plenty of pockets and a relaxed fit, they're perfect for all your summer adventures.",
+    "img": "/assets/products/prd",
+    "price": 29.99,
+    "oldPrice": 34.99,
+    "rate": 4.6,
+    "quantity": 200,
+    "category": "Shorts",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Addison Price",
+        "review": "Fast shipping and well-packaged. Very happy with my purchase!"
+      }
+    ]
+  },
+  {
+    "title": "Women's Ruffle Sleeve Blouse",
+    "desc": "Add a feminine touch to your wardrobe with our ruffle sleeve blouse for women. Featuring delicate details and a flattering fit, it's perfect for both work and play.",
+    "img": "/assets/products/prd",
+    "price": 24.99,
+    "oldPrice": 29.99,
+    "rate": 4.5,
+    "quantity": 150,
+    "category": "Blouses",
+    "globalCategory": "Clothes",
+    "reviews": [
+      {
+        "user": "Julian Brooks",
+        "review": "Excellent product quality. Will recommend to friends!"
+      }
+    ]
+  }
+]

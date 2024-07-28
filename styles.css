@@ -1,0 +1,47 @@
+.alert-box {
+  z-index: 10;
+  border-radius: 0px;
+  width: 50%;
+  min-width: 200px;
+  font-weight: normal;
+  margin-bottom: 1.25rem;
+  position: fixed;
+  top: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 0.875rem 1.5rem 0.875rem 0.875rem;
+  font-size: 0.8125rem;
+  color: white;
+  background-color: #dcedc8;
+  color: #33691e;
+  text-align: center;
+}
+
+.alert-box.success::before {
+  font-size: 25px;
+  content: "\f00c";
+  top: 8px;
+  left: 11px;
+  font-family: FontAwesome;
+  position: absolute;
+  color: white;
+}
+
+.floating {
+  animation-name: floating;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes floating {
+  from {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(0, 15px);
+  }
+  to {
+    transform: translate(0, -0px);
+  }
+}
