@@ -66,7 +66,7 @@ window.addEventListener("load", async () => {
             <img src="${
               imagExists
                 ? img + (Number(index) + 1) + ".jpg"
-                : "./assets/no-img.gif"
+                : "./freshExpress/assets/no-img.gif"
             }" alt="ldcsc" class="w-3/4 h-auto md:py-12 lg:!h-[550px] lg:!w-auto ${
       imagExists ? "floating" : ""
     }" />

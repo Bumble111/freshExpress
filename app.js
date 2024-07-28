@@ -47,8 +47,8 @@ window.addEventListener("load", async () => {
   const all_cards = document.getElementById("all_cards");
 
   function createCard({ img, index, price, oldPrice, desc, title }) {
-    return `<a href="/productInfo.html?index=${index}" class="rounded-lg w-fit card border border-gray-500 hover:scale-105 cursor-pointer transition-all shadow-lg hover:text-black">
-                <img src="${img}${
+    return `<a href="/freshExpress/productInfo.html?index=${index}" class="rounded-lg w-fit card border border-gray-500 hover:scale-105 cursor-pointer transition-all shadow-lg hover:text-black">
+                <img src="/freshExpress${img}${
       index + 1
     }.jpg" class="card-img-top h-32 md:h-44 w-36 sm:w-44 md:w-52 object-contain p-2"
                     alt="product${index}">
