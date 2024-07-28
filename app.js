@@ -73,10 +73,10 @@ window.addEventListener("load", async () => {
       });
 
     return `<a href="./productInfo.html?index=${index}" class="rounded-lg w-fit card border border-gray-500 hover:scale-105 cursor-pointer transition-all shadow-lg hover:text-black">
-                <img src=".${
+                <img src="${
                   imagExists
-                    ? img + (Number(index) + 1) + ".jpg"
-                    : "/assets/no-img.gif"
+                    ? "." + img + (Number(index) + 1) + ".jpg"
+                    : "./assets/no-img.gif"
                 }" alt="Product" class="card-img-top h-32 md:h-44 w-36 sm:w-44 md:w-52 object-contain p-2" />
             
                 <hr />
