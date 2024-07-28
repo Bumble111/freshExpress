@@ -65,8 +65,8 @@ window.addEventListener("load", async () => {
             <h1 class="text-3xl md:text-4xl font-semibold md:!hidden !block">${title}</h1>
             <img src="${
               imagExists
-                ? img + (Number(index) + 1) + ".jpg"
-                : "./freshExpress/assets/no-img.gif"
+                ? "." + img + (Number(index) + 1) + ".jpg"
+                : "./assets/no-img.gif"
             }" alt="ldcsc" class="w-3/4 h-auto md:py-12 lg:!h-[550px] lg:!w-auto ${
       imagExists ? "floating" : ""
     }" />
@@ -110,12 +110,30 @@ window.addEventListener("load", async () => {
 `;
   }
 
-  function moreProducts({ img, index: ind, price, oldPrice, desc, title }) {
+  async function moreProducts({
+    img,
+    index: ind,
+    price,
+    oldPrice,
+    desc,
+    title,
+  }) {
+    let imgExists = false;
+
+    await checkImageExists(img + (Number(ind) + 1) + ".jpg")
+      .then((exists) => {
+        if (exists) {
+          imgExists = true;
+        }
+      })
+      .catch((error) => {
+        console.error("Error checking image:", error);
+      });
+
     return `<a href="/productInfo.html?index=${ind}" class="rounded-lg w-fit card border border-gray-500 hover:scale-105 cursor-pointer transition-all shadow-lg hover:text-black">
-                <img src="${img}${
-      ind + 1
-    }.jpg" class="card-img-top h-32 md:h-44 w-36 sm:w-44 md:w-52 object-contain p-2"
-                    alt="product${ind}">
+    <img src=".${
+      imgExists ? img + (Number(ind) + 1) + ".jpg" : "/assets/no-img.gif"
+    }" alt="Product" class="card-img-top h-32 md:h-44 w-36 sm:w-44 md:w-52 object-contain p-2" />
                 <hr />
                 <div class="pt-2 pb-7 px-3 w-36 sm:w-44 md:w-52">
                     <span class="block text-lg md:text-xl pt-1 truncate w-full" title="${title}">${title} </span>
@@ -174,13 +192,13 @@ window.addEventListener("load", async () => {
     }
   }
 
-  shuffleNumbers(1, 49, 8).map((index) => {
+  shuffleNumbers(1, 49, 8).map(async (index) => {
     if (data[index].globalCategory === currentProduct.globalCategory) {
       document
         .getElementById("more-products")
         .insertAdjacentHTML(
           "beforeend",
-          moreProducts({ ...data[index], index })
+          await moreProducts({ ...data[index], index })
         );
     }
   });

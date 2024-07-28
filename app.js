@@ -12,6 +12,19 @@ function shuffleNumbers(from, to, noe) {
   return numbers.slice(0, noe);
 }
 
+function checkImageExists(imageUrl) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    img.onload = function () {
+      resolve(true); // Image loaded successfully
+    };
+    img.onerror = function () {
+      resolve(false); // Image failed to load
+    };
+    img.src = imageUrl;
+  });
+}
+
 window.addEventListener("load", async () => {
   const container = document.querySelector(".main-container");
   const loader = document.querySelector("#loader");
@@ -46,12 +59,26 @@ window.addEventListener("load", async () => {
 
   const all_cards = document.getElementById("all_cards");
 
-  function createCard({ img, index, price, oldPrice, desc, title }) {
-    return `<a href="/freshExpress/productInfo.html?index=${index}" class="rounded-lg w-fit card border border-gray-500 hover:scale-105 cursor-pointer transition-all shadow-lg hover:text-black">
-                <img src="/freshExpress${img}${
-      index + 1
-    }.jpg" class="card-img-top h-32 md:h-44 w-36 sm:w-44 md:w-52 object-contain p-2"
-                    alt="product${index}">
+  async function createCard({ img, index, price, oldPrice, desc, title }) {
+    let imagExists = false;
+
+    await checkImageExists(img + (Number(index) + 1) + ".jpg")
+      .then((exists) => {
+        if (exists) {
+          imagExists = true;
+        }
+      })
+      .catch((error) => {
+        console.error("Error checking image:", error);
+      });
+
+    return `<a href="./productInfo.html?index=${index}" class="rounded-lg w-fit card border border-gray-500 hover:scale-105 cursor-pointer transition-all shadow-lg hover:text-black">
+                <img src=".${
+                  imagExists
+                    ? img + (Number(index) + 1) + ".jpg"
+                    : "/assets/no-img.gif"
+                }" alt="Product" class="card-img-top h-32 md:h-44 w-36 sm:w-44 md:w-52 object-contain p-2" />
+            
                 <hr />
                 <div class="pt-2 pb-7 px-3 w-36 sm:w-44 md:w-52">
                     <span class="block text-lg md:text-xl pt-1 truncate w-full" title="${title}">${title} </span>
@@ -75,20 +102,20 @@ window.addEventListener("load", async () => {
             </a>`;
   }
 
-  shuffleNumbers(1, 49, 8).map((index) => {
+  shuffleNumbers(1, 49, 8).map(async (index) => {
     if (data[index].globalCategory === "Electronics") {
       electronics_container.insertAdjacentHTML(
         "beforeend",
-        createCard({ ...data[index], index })
+        await createCard({ ...data[index], index })
       );
     }
   });
 
-  shuffleNumbers(50, 90, 8).map((index) => {
+  shuffleNumbers(50, 90, 8).map(async (index) => {
     if (data[index].globalCategory === "Clothes") {
       clothes_container.insertAdjacentHTML(
         "beforeend",
-        createCard({ ...data[index], index })
+        await createCard({ ...data[index], index })
       );
     }
   });
@@ -103,10 +130,10 @@ window.addEventListener("load", async () => {
 
   await shuffleArray(data);
 
-  await data.slice(0, 16).map((_, index) => {
+  await data.slice(0, 16).map(async (_, index) => {
     all_cards.insertAdjacentHTML(
       "beforeend",
-      createCard({ ...data[index], index })
+      await createCard({ ...data[index], index })
     );
   });
 
@@ -114,11 +141,11 @@ window.addEventListener("load", async () => {
 
   seeMoreBtn.addEventListener("click", () => {
     const currentLength = all_cards.children.length;
-    data.map((_, index) => {
+    data.map(async (_, index) => {
       if (index >= currentLength && index < currentLength + 16) {
         all_cards.insertAdjacentHTML(
           "beforeend",
-          createCard({ ...data[index], index })
+          await createCard({ ...data[index], index })
         );
       }
       if (all_cards.children.length === data?.length) {
